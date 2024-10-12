@@ -1,0 +1,211 @@
+[
+    {
+        "card": [
+    {
+        "url": "https://s3-alpha-sig.figma.com/img/d328/27f8/e1161a5586d1fa3dfbe80ff6c7b59e22?Expires=1728864000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=lcKu8yZXfNGDIHH~rz3WRGHRRCCKnTKlI8JOd2NszSputUuuVNCXOGUF8RBpmJw6S5SKOtyg2ODWhT2pmF3-XKY9lCGEWeYvhmT5h6W31zV5b826Vk~NfP3mo1823mdCEN1RDMluW0z4Xyb~vFZ9yQ-1WlzPVwBDyqJzBD0h-FRTlmg~c4FzNLKGpqFxrJn3594NF86znseupOT2eKLGk2JhRJz-lc3aJryX-VpuE8yevphVaSUg6zclPN8p5wvn0PXqEQtFrN6XNB4S6fCrmwi1IgR9fpZ49vNaI53oauf~EgcTu-ornakrkDu2h2Z65Hu3Lr2IQTFmaTa23PFwNQ__",
+        "rating": 7.9,
+        "year": 2024,
+        "genre": "Фентези",
+        "country": "США",
+        "age": "16+"
+    },
+    {
+        "url": "https://s3-alpha-sig.figma.com/img/d2f0/30d9/d07c8a9426cf47d1529b20856420dc0b?Expires=1728864000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Uoo4l79OHqZ1Pn7xTk6xnhW9HBsb5WM5MOyW44ykOz8Ie1eVnenfWwzQC2t5G4a2A-EaM553h3k7pTIycSAd1SpyK528P2FoUvac1Cj3kMhuJManLQCOubD1vC87UnKtKeLZi4f8iRp39clVoyJPck71dUTvR0S3MGKf2bZlYATOy-YAYqQRP936FSIx-qoKbaoAW5VyfKwAebOuADsFdSkFTMlpa-KJy4dpcZLox3nBH5SXACU0GOeBdUux0y04BlwcWzQ3sY-P9PSg5HMV~8dnAXm9LX~MA~Y0w3oTHcitdr7L~fmBMQZp0mLZ4C3Dn~AqK0aUZ9PE0-lgKCBCgQ__",
+        "rating": 8.0,
+        "year": 2021,
+        "genre": "Комедия",
+        "country": "США",
+        "age": "12+"
+    },
+    {
+        "url": "https://s3-alpha-sig.figma.com/img/692f/5a02/25ae66e04077cb5b5a2e1401e91039bd?Expires=1728864000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=ie65dMUDZQ3XTuZ~e8LFTLpjLmTxgLb4TlII-sKNnNlZZI~lB51xSkYlfEyEG2ZyhJ6Flfaaqd-bW5L0xpBu9sjOgGC~zPrqs1mBADNkT2By1mkcjsqsZBFWZd3Zs~FBnWpH3YR--9IC2ZWSIFrILePjHiwVaQ~xC0UwI0i0zlHsUnGmpVl3phd9E7W-jFoViQXWKJfJ1XkhzAxr0SPwUxZsAGG6sgMVRR9xAs772CzZJYQaDbJAu8U7wOBmFqTGS47XlVGKe9speUhutjD1BGj6KlQr62TjnkBgvpCuhs7vIau~fBS-KU9kMROJJbKuB4WpoJlKvp9xMN17WL0UaQ__",
+        "rating": 8.5,
+        "year": 2018,
+        "genre": "Комедия",
+        "country": "Великобритания",
+        "age": "10+"
+    },
+    {
+        "url": "https://s3-alpha-sig.figma.com/img/47c8/4e29/9de1c8cb24eec67fcf6fae20d321c966?Expires=1728864000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=GE5X47oVSHnn~MdVeE~BYJnp2Xbxlnq9g06cg~hr8DdiPpFOCqstJzCT7iXwmHvOFobJy3gJS0IetoLcdspPJOYIyUQd3zGZ3A0tNv3q4Is68naSXB2SHFSdKikq16XC5C8sWEXFOpTyZf~1numCR70nxgcCtNGYV4cwaapN78pumBN09nV9AzHk98Y00SSYrJASYB5rBGGO4A0fzGJZKPo1mxKA40WJzuUvc7BACRhH3kkn9zLR5u3fxpV4G6TyQOrPzfwTvXdcuWzrdCfOCfta1VM3Cw4i~~Hw4znS84uI1nAARqmndx4zlM0GZF7v-qVivh78m-2TxgI6DAw-EA__",
+        "rating": 9.7,
+        "year": 2014,
+        "genre": "Комедия",
+        "country": "США",
+        "age": "16+"
+    },
+    {
+        "url": "https://s3-alpha-sig.figma.com/img/ad72/9f45/e538ba1d6229553e3174c849bcbdc6d0?Expires=1728864000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LLSCORN-M0~9sNVJ95FtnQOyAcHbupjJ-Krgz7g6064oEKeo1oHLLw~NrZV~AD-aNkik9uEQ10tA6nX7PXpCvpexVYblcU3rXiHggdh0GVT2VzGZFQTsR1-NoAjufoAAnqo4pyeTXtk8qpGM9l9bJ7jT4TpHd34GC4~YO3gs7QEz6MmOn9Y7ScVhHgaS4eRh08V3xyb27jtDSCwU65ucQ~RExrGNYsRH49DBoIW6cdgK6HbCj7PiOlRgpeAwrj30aW26I6iijYRFnz4KlDAigLFXHfA0k3gbiYFE~tXo3tZVKXpnX5~ldJibvV2OVl4UOQ7Ir7uCK5fukY9Dvlk~9g__",
+        "rating": 7.9,
+        "year": 2020,
+        "genre": "Комедия",
+        "country": "США",
+        "age": "10+"
+    },
+    {
+        "url": "https://s3-alpha-sig.figma.com/img/eb19/82fc/80ec9cb24cf54aa75bd989efcd48674a?Expires=1728864000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=UbZUDX3pZSa-izGlvbZZACCnQkj0X0wAPYzQkWqLm1u0iMZF1ZQ-KxgQXjTvmDNwDyROpK~EHxmRLe3JRniDj5fZHYZtShiMRfJnmEp3KTn5pBzKUfbWPfv7pudjw781Yyt4qWhJUl1MYzvwnc6jNO0PSdMcUezSRX1Xi1LfISwTlSsCJ53cMR8ZvhemmMVchvUuQH30WxktzYkB-dJpVh98Lt~5OQsNfSPbZ9PhS339De2hmStmU~j1tTjY4bFM1hcVQ6ybSJLQw~MzfYTd2dFSDVwS48Bc3CVxsnhfMIh8VBrZIzOWAlCPI1aU47urf70W79JSqAtKq2b7Kohf3g__",
+        "rating": 8.9,
+        "year": 1998,
+        "genre": "Милодрама",
+        "country": "США",
+        "age": "13+"
+    },
+    {
+        "url": "https://s3-alpha-sig.figma.com/img/8833/35e0/49d5fcfdff3281b7a8912b2a8ba6ed50?Expires=1728864000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=NgV5o0CGJaYkPDCcg~fsNriRjnODgVhxakl8Ac3kaYB4OpoIa6EuI5YXtB8xr242GwfECiYywcaIJ0vvx9SY4-dd~3Bgca6forvxAaGnSkqBbcsTR7WC2U0M7Y7~xbNbbWkRMeI9owIN9PkJ~spvqXcmZg2drY5XTt9IVv4r4creiJcSDSmsjaAffcOdDcnOdn24XXqD-wHc-3QjUYVCRRaT7rPP89ny4JLRnhnfWZi6wBAgXCDbxf62hIVG-rpm3Ej6yAl7aIy~zEWamj76XjSj2e7JSCwkmrSM8Tj6pVIVpNR8vga5Qnu73KJqkV-skgTtkwvyjieKyklPKoKllQ__",
+        "rating": 7.9,
+        "year": 2008,
+        "genre": "Милодрама",
+        "country": "США",
+        "age": "10+"
+    }
+]
+    },
+    {
+      "cardRating": [
+        {
+            "url": "https://s3-alpha-sig.figma.com/img/3678/87c4/effb6434265cb8b7fd9d611ba39a3c10?Expires=1728864000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=IX7McJZvIHObu5bZyN63RChOpYsd6tJxvE3ahuCMNhdpk4FZkDCr-xvWB5xTNShoQ1PtFFkmIj6ZPcWhCZ4GYGHxfRGS109KLjOGtQqDZgOjrcHcc0a0nGP7fcXtTFrax4cc3TypQC3w~ECORJHXla~qvzMIbjxdFnjBBMXOSGj4lTsYBj2D6Qkpauh75wzCEt~f-o5QejzpdkU2S4eIC3~NjJs-t1ZBtq5hJm09vfBbf2t1MQKwthuUPVamkrtwJ5IGbHqjViyYeYvCd3vKA2EwdozRxuoFXB4LvN4xYWozK0-hs169-g4gHzVQg~sMU9KFZksINuG8~Y3TVIdsLg__",
+            "name": "Муфаса",
+            "year": "2024",
+            "time": "2ч 32 мин",
+            "rating": 9.9
+        },
+        {
+            "url": "https://s3-alpha-sig.figma.com/img/d249/3c09/0c6584c85ac80f48a5d5f56c0764e070?Expires=1728864000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=W98eV3P-BqYz59tpzRcWqzTojJWBzhM07FEM8IDt6ZNDskU3lyzC2QwzWA-UOEChZv0sYG9gfEH4cyfsI-Ki4doKi7aZC~Eht1ac4YD-Ka~z1vqeHfKaKI74bsmpW~diPGTe9-S4MBkPbzSQya7uYDsLJEHxQyP4oXXy~77UAyTj-0XlLou5NDyqdcC6QNcMzq59oMFRGQv4ttWSoJOoI9otBU-fl~UP990mxgIzimc~wnnGYp3aSdnFCocnK0nGoeCXKGVdA9h~uN1kgCLlxSlUfqnZ4HuXV2SthYfFpMaEE7ZkJzEFFMbx85TAjiQtCY4c7lDBZzyUdAKhy3SeQA__",
+            "name": "Отличница легкого поведения",
+            "year": "2012",
+            "time": "2ч 20 мин",
+            "rating": 9.9
+        },
+        {
+            "url": "https://s3-alpha-sig.figma.com/img/4f85/17c4/061443848daa3a1cf0073e63f1ff345a?Expires=1728864000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=AXnMBVDMpHsDmuLe7jTgJC4iJBtblueRsd41OAwHhy0RM4jc8CVOdSgK0fa5fv3ktIqlH1B9fPZvHWWaMp9owA8-SQq-y12kBBFcNEjEysFe-r0AxiEj8S~sJ5R7KOeIp1ma9uyTdzfYVhXbfSLz400EbSW2gUmlYzpYXP5IHKWkIbUxG~amruLNXll9QBY4mnSC2LtCGDiBJ7KywDh438NLGTq70BzwiLJdsvEAOsVKQ8PorTFFmI~RXoxVW5zVUq-MSgTqcO6tw15p7Y2NJKB8W45VmtBQx6q6pTsCH01~6S1DeoGikGLXmn4vlYGcI1czPz7IGJwzNLNJ1haipA__",
+            "name": "Слишком стар, чтобы умереть молодым",
+            "year": "2024",
+            "time": "2 сезона",
+            "rating": 9.9
+        },
+        {
+            "url": "https://s3-alpha-sig.figma.com/img/c4d5/f36f/ad7a6128c6e151a7e18349768a8d93c1?Expires=1728864000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=fcl3pu0W8K2q9zMrC6l6LuMP99l~1NJFjJqN8me3YleFXRLNyny4rC2PbQfkL9ejwpr~BAl4vZCYv1G7P2VEAJpUABY4Fpt6VsGevzIsSifrlLd6RWfI8~inrJzBEM1hw3yMlFervIDClKbklWgYzfPtvLQMjeHMCK4V8rZg5bBKmUZNJlNgaeE~F-ckoxtyqzncJOtqK7KV2J9pUwfCVw3aRhJ3vH8gyrbpOTwNeQxUUxnW~Vew35fWZDvfbVfUgIwdRccnp7QYPcBYYI5RcDzlwa9LdG3fRQmZxvqbQxlZgS78ex6PUEX5CU1PWtKu7XhA15xowZknyacVtjT3aw__",
+            "name": "Джокер: безумие на двоих",
+            "year": "2024",
+            "time": "1ч 56 мин",
+            "rating": 9.9
+        },
+        {
+            "url": "https://s3-alpha-sig.figma.com/img/f671/5aff/a57773e60384439c88bd5c996f771c6b?Expires=1728864000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=icRAEZe5koE5lAb3dbPynZVu5RfFT-VnOF~FdvKRY0ulZ9CHzGLxaNIo05VKr2GigA9zbHEaZvdDXHHxOl~94SqnvSajIjh61nmt28dok3~FGigN89fSJU9HrE7j2ZTfITHWpWCWTR9j2jjWkXuwFCgWY7YCToujjD1a9ujMp9CuA2bhTatCRkUmWY95Fm4wEAN~0OrKgyT567rZPAzT8CMclP1G7MNC3cy-YR800eJfy6zXkNHIhNsKIgHbsNDF9yi-AQRRtXqMXKTL20T5SukS6xdiewQk9lyJnZ3FWsK2V0gXEX9Cv53IDIzzogtN6r4SvTgt4YpTaMb8yBK4yg__",
+            "name": "Хороших девочек не убивают",
+            "year": "2024",
+            "time": "2 сезона",
+            "rating": 5.4
+        },
+        {
+            "url": "https://s3-alpha-sig.figma.com/img/abec/7854/9a0aaabf7b0f2c7808868b9f85bf2130?Expires=1728864000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Z43Cqak4CJRop5NQqgLN6S4Z3Uu4FszhvgTpzbJu9BbXa09jYJEvUJnp4--bqDo7W8q-tmiiiOhoKQdaQPd8KGcJqilDGh4-bT7ktIRR3cfNDft1Pq~vTJkbhMHsqC~9Wt8biD4CUWXyj~9GOXBlNGJBGzkdn6wZOwJy4427uNqPWkGUaV9bD5Sq-yECaAUjxPQgQ5F3NMwMPcYStWdB2b0FXLQgbp~rzGYf4Cd11gS2YZ6WbIfsCaMIvCnuBmESuHNpzasdYNcU9zBoZqAXxhPDimat-8PVSTcxo5oKLLm5lWHnuOHtOj3zIEUnUtr7Z6zCNtnOXaSvCXc3dBUAKw__",
+            "name": "Лощина",
+            "year": "2024",
+            "time": "2 ч 42 мин",
+            "rating": 9.9
+        }
+      ]
+    },
+    {
+        "top10": [
+            {
+                "number": 1,
+                "url": "https://s3-alpha-sig.figma.com/img/50c8/6d89/6afc112d7fedd2d90c51f0eeb84e148b?Expires=1728864000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=anQou19HTCcsuc~g6JUXeqlaxaShVNr~qJG6pcA0k93r4ATCaXnTgVpGA-lly~Po462n8dG2gOeeaNlK-swSerDiKD0rd1Fi1sbCIunWGDZNZ2crCOeELz61Ekyt0p7XfPJvqJg7kb1gw9NDntwkXOyaO2iPPRmGmWmpvMjxUbD5m-7Xy7j6eXWVq40I7ZwbWU3ZJkv~i86wEFL1S8TDJDKqUWtitwOrvavbTdIuOFMs0vwaZw2q1jnGx1JzDfDUL5JOIBuQ~wLerps0TaQ92Fxl9v8WxOa4z7Iiuj~wRJ9JAqgcXVip222ltDpJNCGqgErupuzYpB2r8IkTiITX8g__"
+            },
+            {
+                "number": 2,
+                "url": "https://s3-alpha-sig.figma.com/img/a5cc/c295/678562a5d7b7ee1d91ebc70ae33422b3?Expires=1728864000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=mv2giOP3E4QsMvJEFWJnKqHYAzDRYJWait-rUY5YU8PVN3GhMV1yQJvjfdu3nPg2u8BELjxh6w0etm9A~Wx3aXdf93lzRkbHAOvI5Uj3uBC1e39awOhSfVY5d3Fj5If-axRf9JHx2BK7ZqZqTjsYgInxiEi1MOmQuwI0tLFKCriIOMEFfMKmDStzu7hFh-qK-rneylVFsaLasJfp06n9oitjxZD9SSD8pfAvY626k2hKcX0y6cSjsr5ZYtsKqACojNAdrUCWMYd9Ad-xe6-GMkS1cBBMC-jpcNP7WkKjaNxrGttw~CyBy42uI96rkact~K2O8q393nsAPakI1GborQ__"
+            },
+            {
+                "number": 3,
+                "url": "https://s3-alpha-sig.figma.com/img/9fd0/fd6f/2e8210a101a4acf217922720afd45468?Expires=1728864000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=KV0IDnmw4JYRf4mxgImPFRZQHyM01T5sKmkPoGhuBKufAP~Lwj5ESCv-4GO0ed8L-qeoJi77fHKEgCMQz7wC~i~ASfuQTxhge~IMw7BT0pygzNC-R0wOpefefMJ0B31KHfRJQ~SKhTMsRzZxzkUmZjxso1pUhqAt2fzPsNjasCTtJto6K5LB5OGTLgP37pI1CbFcs90bTQ-TC4yl7upJz-bWvb413UN-0WqA4OVXwYkXsn13aRh0r-5OzlCOkAzBURCl5Wy~g3T-c~0mxjxd9QptjZOb12zBbEi2-vBFvOcLaUPitF3SPbBt9dM17M2ELhyweIMwv6xPoTTqhOhkbQ__"
+            },
+            {
+                "number": 4,
+                "url": "https://s3-alpha-sig.figma.com/img/f427/dfea/b7b89b5e0d7a82a1c2047049ebefcfc2?Expires=1728864000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=qAcrnzB5lJKZnLeZzRP7qUp-X6ZnCDNFYJ9KSNzntnHnTT8nvEEE9ELANrBs7HofwjD2sbsuNfqa3SbQTG2vxx7MGnox7mba4zjmJdDNxRnwJ49fCSircqjuUoVMMbqPRP8q1K7iprbaFHcNxOKzE~uSbyZr0j3VAja8vQQWXlE0MzGUzIQOWIhzENDUoH6dOqyxgQudQCmPhr7FCsnGv2sd9Q~coyKdyX-3aMqgq~mN20NUNc3qJfxlehTtWp~etQmABkD-fAFL6VFnYBPunI2qGlhqWSuufLYDnuESajXdgYVUZ2r0qiGHli-xI1ejY0YPOiePCGE0nYJcz~9cyQ__"
+            },
+            {
+                "number": 5,
+                "url": "https://s3-alpha-sig.figma.com/img/b2f0/eb76/8e9128dca64324e04160ac9f28619cc7?Expires=1728864000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=XJrGESBbkJfRRvHk4DU6PjAfhuPssGEpw0m8kkO6FdUOFo7GsD-UGcBYYpKVaDYJT4hxWR6RKmH469Rhb7D0uhj4H6RLJw6Dkjky4~lTI9EFT6XP6PaIjTzHIAB~477C58MIsEvPUd-1XKjj5iBkpDhMLFD8LDDn~eNzgPTZf5P~oDPnjBdIEOcU7XJbAUS~-eXhyLLRJa8x5RyE4OEoq68B1ZLODX0opkF1NoxVkcYgUYnHS644P~VjjhAUAb8vgApsiK9~t0~7oaTph3fm4WB6BBMk1MkZ0rtQkkQbX5R76FfovWm-~hbTULwvwSVB9uYZJcIIOCeJzr0eK84GcA__"
+            },
+            {
+                "number": 6,
+                "url": "https://s3-alpha-sig.figma.com/img/2773/abf9/1cf2c87aa5ed0f2d22538d88ab580d06?Expires=1728864000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=GGAUJj90WCR--5T2WQ6DuxOaAL0O-tZ3PKHQQp2OO2HWmfLFYgqWn1vjeo3l3SK-f4vLTsp2QMnQmTLqoy7x1p6SyUwuMGtL-cYIUFJ8vYy9Fb-anjFU5v1R3bNmntA5oM1S6p8izajECpXwFTzuxt-fD4fAEqEGHqoQx8bDsBXoy16pCgSH1NewZZlYX9A8vAyJOpHE64sLtUZ58J51our0w0lMhIuZW~xV2dQSNuRkTLqx9Cqd1k90UJquWNhQ-7gjE8Y1PTjotawsez6ZR2aAki58xNsqTl5~a8cjd6aKNBm8qlihe858NtNLUtzoo6~n8JFihtktPVoAlfLACA__"
+            },
+            {
+                "number": 7,
+                "url": "https://s3-alpha-sig.figma.com/img/a3db/fc4f/9b30efdddf90ebe33fcc59e4f8aa7711?Expires=1728864000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=hu3qDqf82SwpInnjgZ~zFHyKYC8O59ib2WBgP7-H9BG8r9DdnCg0YLAnqy-A0R8Qj2PnbrZJ0VdUTq8QrtDq1zwSaXuE1gD0VC20mEs~z9aoaFAxtl-ZbMe7us92Z6QwWGxEB~nA5ADkylZrVowuHfWqdFFouImvgffrof1wCyg5XCTb9vOOYEzDirOR5zTvco2SstIN2Cg4ZSJ92ApRUnP8JBvZQO~dO5251Uc0H2KvODQ~V1OsC~Xssh5iDZW1d7IhGYwcH-QjxIIFeilf1hTvDQsg0D50KMdG462m16iSq-aAwm8OXhVy9SFz-G5dKqRaeiSIB2X~iWjuE28zyA__"
+            },
+            {
+                "number": 8,
+                "url": "https://s3-alpha-sig.figma.com/img/3852/de08/8cb49f2346ac91900f24a5e43b5b09e5?Expires=1728864000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=nWjz3ZEtKR2DoEK7LzArYXF-X9BYLyrZ0WwKzLKGKtecl5MkNYle4DBwVbLIxOU0XQrV-qa6kTpG~KwVn9VN-6P1DdBoc8QZzuRjYVwIlbIYX7ieEqLjJ6mlpFldM9mGZesniS~x95gCOZTUc3zhMKGs7mC2M7YzAySy-ZIX7QAXGeyv8KvEhKPpi4HfE09tjBHYsGziuFJPABVE5M15CTZmZzyZfOSh7hTkx3gzRNpCJ9ch3zUaTSFlUortEh3zidpGSdX8HE-XluWhl7sNjzIdRPQWkZFjhPwEgMbCe0QomaWUmUVngdpfkIW4VuxPx~9vwmjZ56RFJFFdobY8xA__"
+            },
+            {
+                "number": 9,
+                "url": "https://s3-alpha-sig.figma.com/img/51b0/bfa7/709becd9da441bf7b4c4dbd1da116e53?Expires=1728864000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=gLyTLT0yieIx-0T6f9YTX8hK1r~aqWF3O2VrP~XwhI3~olVrQ8wcdUBBTq-HBLa7i~9abWg9D18I0HF~~P8QNBaa9QfcLk8hC2Z4aCEF3N3r~OpF9UzNQ6jyyGOAR8slmai9DgfydHZy6YemTvgo64HU-uOQkvmhc62x-sEXxL6A1y3EWnUgCueLt19HNNSpk2~766XXf3rUDk10rJ-d9aoWKyOcixcQWlLl8ynoNvH5JyipMckVlABmFewjUoXU4yTARRsxWjvx9FyDznFCKDZOvu4W6ejhMlanb7pTmlbt~wLKf4HybG1U4cOErBxPoNAXoWYY8wM-D-pmZ9L7eA__"
+            }
+        ]
+    },
+    {
+        "films": [
+            {
+                "url": "https://s3-alpha-sig.figma.com/img/491d/b121/756912cfa91c6503c2513b31801831ee?Expires=1729468800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=eimxvWkmOP-l7SSalbgXS0l54gujp-FVOPuFYEQKxfm0HF0ygYNfSIWBXCWzEX~hOz0VSTrsYelhBx5VnJkmT3kq5o-GqfrVNR3IZiODo2q9ddyCtOUdCzLoL3YL7fXBRJ5mbl33VhMxASrNT1lOCpM2Buf1I-Sv3V-O325h72QRxY0l-O5ifj0GafiQXa5FbxSPY92yLvjLmwab2eDxGwZpW~nztjofIEbYLhCOli9y171ZALPTo-A-oZPzniBmXC4j~1lbnNV-4Z3-sMQLCqIvNbTRNa7v2Ndx9dQ7WrKXIX36cplOHb0YZ2gtjotQPmdyyTOvDL0UQR9-Y1dsDw__",
+                "name": "Серия 1",
+                "time": " 45 мин"
+            },
+            {
+                "url": "https://s3-alpha-sig.figma.com/img/3b98/1526/467ff1d59f53aa6021157e8ca693690f?Expires=1729468800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=i~NT0qHR7j7bIKIm8G-jJsWMzvTyE9L1AB7F4HDSv-fLOLW4xQuYEFA43qdHrVmtrnXSg3gtjd4SqfX5L9ze6AInQfyivpv~rHDoLI0ym~Mss5e48wypTG6Agwy9uaIGd4onDZoL~4KCHjrHuWjEe62xd5CvJlhG8b1ULxTu54S3JOA26TXubxgKehaEfZrOXMfEK9HEHsMgt7LSFlaw2xIuFQmdBFbJpFa0BAH6g13Yb0jVi0VU1-pWweQ~4jM8gWL7nGFOKBTs47vDb8TAgBzTx8AmllBqh0A8K7vSBQYu5ADhUykUtobvmVzsbVXMoLa03CJAIrI2z6LElHfqOg__",
+                "name": "Серия 2",
+                "time": " 55 мин"
+            },
+            {
+                "url": "https://s3-alpha-sig.figma.com/img/0579/6255/d1c06d27902aeb09df408ca2e9f2d6aa?Expires=1729468800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=q6WgxImtMqtUYwt-uZumoO3vK~ZEzh181FZ7qQBZxzV3t~g6mmkXX-DKSdcLUTQwO14FPHs6uckxGTwkhwy-jT0oZX7RlnxEA3dUlnu3Hn4~fHXa1Wgp3Qb15EBzX7NvYfdBKqGpJhwnMM106g5VPqNnaBp1StsjjnU7nNIJbHKcV05Hnhqkz5hqFVccKLuWrsT0jJPETlFdrXcMGQ7dBZhhxeVGPXKTAGvlDT4IgnG8iSp3T1B9kXmglktEFBrbUf4hxTPe~ES6v0CbwZo7fvfw5h-kACSfrWUs77BDO89sEQFH9NzdqVyYabSJSwGiEHFNdbaEnxlz1bVnusw~AA__",
+                "name": "Серия 3",
+                "time": " 52 мин"
+            },
+            {
+                "url": "https://s3-alpha-sig.figma.com/img/0d77/f216/c16496020bf6429fa97a4716c2251c8e?Expires=1729468800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=HNS7Bh6eTdLSYXTKnEb4SpT7R6zdyqIt8Dfi1xcIEQH99fZ2H~PUfy7MYRfV2kTcrvvTCpEiJAYepBNIgtEeJWh2M8rdhjjGnNPd7GwG2qOjR1hKS-2fuuEQwgTcPPunZN2MQLoawKCUEai-ofWQdqmrXQtWmS8X4RH3sq8C9DGOD6~lsHFBCCkApv03~KERT8Z1eVwHY6OwSmGmNj7pK~gzVGT95OPO-a4MUYNjJQCe8XoTqey8SGeHVZTrxwzkzyR-DIaMP7UBXQPq14joxpTXAjm2rLEBQnyDjHEGcupo9Wxi8bpar2kf55F5iwo3Rpd8K6fGlAiujs4LIlQJgg__",
+                "name": "Серия 5",
+                "time": " 47 мин"
+            },
+            {
+                "url": "https://s3-alpha-sig.figma.com/img/4adb/17c5/6d22081b057fd02279aecd7ce32989bf?Expires=1729468800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=HOig00gJ8TQnznttB3gAjqc9D3pzwx9-YLOunI6YvkPQ5-V-L62HSWdUMsi-YzgDEMutJK5hEMiiAog00kbtHVvnuoamEvC9ObZFtlvmt7VEEGQ1vnT~~51PAOXvM3Qu91cFWzg9ALhhuIdfTjdgdSIcvbYkcK~Cgek22JPMFN28ie5u9Y5bpJkQNwt86-JaFqlgaSHWwK50f13Uyte6Xu7B3LLvubVRxmvrfnMB0aTJEe02AeTOuz79ZHzOKtFU6ZZsilTxAFyySPEK4-690fPFqz7PGF7hByiNQbXZiLia4~mIZ1N9iIaUKO58xzK0aw7QCAWRB9QXoY9VIEpBhQ__",
+                "name": "Серия 6",
+                "time": " 40 мин"
+            }
+        ]
+    },
+    {
+        "reviews": [
+            {
+                "name": "Nike",
+                "data": "5 мая 2023",
+                "estimation": 8,
+                "review": "Первые сезоны были интересны и захватывающи, однако с каждым последующим сезоном сюжет начинал утрачивать свою остроту. Герои становились предсказуемыми, а некоторые сюжетные линии казались излишне запутанными. Тем не менее, сериал продолжает держать в напряжении, и некоторые эпизоды действительно увлекательны."
+            },
+            {
+                "name": "Mike",
+                "data": "12 августа 2024",
+                "estimation": 9,
+                "review": "Если отзыв очень короткий."
+            },
+            {
+                "name": "Inna",
+                "data": "23 сентября 2024",
+                "estimation": 10,
+                "review": "Если отзыв не слишком короткий, но помещается в выделенную для текста отзыва область и не выходит за её рамки. При этом кнопки «Читать дальше» нет."
+            },
+            {
+                "name": "Den",
+                "data": "20 января 2024",
+                "estimation": 6,
+                "review": "Первые сезоны были интересны и захватывающи, однако с каждым последующим сезоном сюжет начинал утрачивать свою остроту. Герои становились предсказуемыми, а некоторые сюжетные линии казались излишне запутанными. Тем не менее, сериал продолжает держать в напряжении, и некоторые эпизоды действительно увлекательны."
+            },
+            {
+                "name": "Kristy",
+                "data": "07 апреля 2023",
+                "estimation": 8,
+                "review": "Первые сезоны были интересны и захватывающи, однако с каждым последующим сезоном сюжет начинал утрачивать свою остроту. Герои становились предсказуемыми, а некоторые сюжетные линии казались излишне запутанными. Тем не менее, сериал продолжает держать в напряжении, и некоторые эпизоды действительно увлекательны."
+            }
+        ]
+    }
+]

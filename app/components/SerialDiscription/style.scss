@@ -1,0 +1,112 @@
+.mainAdvertising{
+    display: flex;
+    .leftPart{
+        width: 886px;
+        .listMenu{
+            display: flex;
+            gap: 16px;
+            margin-bottom: 28px;
+            .itemMenu{
+                font-size: 18px;
+                font-weight: 500;
+                color: #FFFFFF4D;
+                transition: all ease 500ms;
+                &:hover{
+                    transform: scale(1.1);
+                    text-decoration: underline;
+                    cursor: pointer;
+                }
+
+            }
+        }
+        .mainText{
+           font-size: 18px;
+           font-weight: 400;
+           margin-bottom: 28px;
+        }
+        .boximg{
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            margin-bottom: 20px;
+            .infoAdvertising{
+                font-size: 16px;
+                font-weight: 400;
+                color: #FFFFFF4D;
+             }
+             .imgInfo{
+                width: 24px;
+                height: 24px;
+             }
+        }
+        .auth{
+           font-size: 16px;
+           font-weight: 500;
+           color:  #636365;
+
+        }
+    }
+    .rightPart{
+        width: 626px;
+        height: 138px;
+        background: #FFFFFF1A;
+        border-radius: 20px;
+        display: flex;
+        gap: 20px;
+        padding-top: 20px;
+        padding-right: 20px;
+        .estimation{
+          font-size: 48px;
+          font-weight: 700;
+          background-image: linear-gradient(90deg, #F2F452 0%, #B4FD64 64%);
+          color: transparent;
+          background-clip: text;
+          -webkit-background-clip: text;
+          width: 153px;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          .border{
+            width: 626px;
+            height: 98px;
+            border-right: 2px solid #FFFFFF1A;
+            border-left: none;
+            border-top: none;
+            border-bottom: none;
+            display: flex;
+          justify-content: center;
+          align-items: center;
+            
+          }
+        }
+        .textrating{
+            display: flex;
+            flex-direction: column;
+            .title{
+              font-size: 20px;
+              font-weight: 500;
+            }
+            .titleSmall{
+               font-size: 16px;
+               font-weight: 400;
+               color: #BABABA;
+               margin-bottom: 16px;
+            }
+            .listRating{
+                display: flex;
+                padding-bottom: 20px;
+                gap: 28px;
+                .itemRating{
+                   font-size: 28px;
+                   font-weight: 700;
+                   transition: all ease 500ms;
+                &:hover{
+                    transform: scale(1.2);
+                    cursor: pointer;
+                    color: #B4FD64;
+                }
+                }
+            }
+        }
+    }
+}

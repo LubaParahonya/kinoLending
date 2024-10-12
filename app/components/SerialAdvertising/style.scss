@@ -1,0 +1,54 @@
+.mainAdvertising{
+    margin-top: 80px;
+    margin-left: 64px;
+    margin-right: 64px;
+    .advertisingBox{
+        width: 100%;
+        height: 186px;
+        border: solid  #FFFFFF1A 2px;
+        border-radius: 20px;
+        .toptext{
+            display: flex;
+            align-items: center;
+            gap: 24px;
+            padding-top: 40px;
+            margin-left: 58px;
+            .bigtext{
+               font-size: 32px;
+               font-weight: 700;
+               text-transform: uppercase;
+            }
+            .smalltext{
+                font-size: 16px;
+                font-weight: 400;
+                text-transform: uppercase;
+            }
+        }
+        .boxIcon{
+            display: flex;
+            gap: 121px;
+            padding-top: 35px;
+            padding-left: 64px;
+            .icon1{
+                display: flex;
+                gap: 12px;
+                display: flex;
+                align-items: center;
+                transition: all 500ms ease;
+                &:hover{
+                    transform: scale(1.1);
+                    cursor: pointer;
+                }
+                .icon{
+                    .logo{
+                        width: 36px;
+                        height: 36px;
+                    }
+                }
+                .text{
+
+                }
+            }
+        }
+    }
+}

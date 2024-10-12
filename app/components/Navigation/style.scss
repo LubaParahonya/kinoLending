@@ -1,0 +1,125 @@
+.mainnav{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    .headerNav{
+        display: flex;
+        width: 489px;
+        height: 68px;
+        gap: 80px;
+        margin-left: 64px;
+        .imageLogo{
+          width: 115px;
+          height: 40px;
+          margin-top: 14px;
+          margin-bottom: 14px; 
+        }
+        .groupMenu{
+            width: 294px;
+            height: 68px;
+            display: flex;
+            gap: 28px;
+            display: flex;
+            align-items: center;
+            .buttonMenu{
+                padding: 10px;
+                transform: scale(1.2);
+                &:hover{
+                    transition: all ease 500ms;
+                }
+                .buttonNavigate {
+                    font-size: 16px;
+                    font-weight: 500;
+                    color: #f8f7f7;
+                }
+            }
+            .active{ 
+                border-bottom: solid #B4FD64 3px;
+                padding: 10px;
+                transform: scale(1.1);
+                &:hover{
+                    transition: all ease 500ms;
+                }
+                .buttonNavigate {
+                    font-size: 16px;
+                    font-weight: 500;
+                    color: #f8f7f7;
+                }
+             }   
+        }
+    }
+    
+    .navRight{
+        margin-right: 64px;
+        width: 548px;
+        height: 44px;
+        margin-top: 16px;
+        .groupButtomDoIt{
+            display: flex;
+            gap: 8px;
+            .buttonDoIt{
+                width: 146px;
+                height: 44px;                
+                border-radius: 12px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                background: #FFFFFF1A;
+                font-weight: 500;
+                font-size: 16px;
+                gap: 5px;
+                transition: all ease 500ms;
+                &:hover{
+                    background: #B4FD64;
+                    color: black;
+                    transform: scale(1.05);
+                    
+                }
+                .imgInstall{
+                    color: #f9f3f3;
+                    &:hover{
+                        background: #B4FD64;
+                        color: black;
+                    }
+                }
+                .imgDiscont{
+                    color: #f9f3f3;
+                    width: 23.99px;
+                    height: 24.05px;
+                    &:hover{
+                        background: #B4FD64;
+                        color: black;
+                    }
+                }
+            }
+            .searchButton{
+                width: 44px;
+                height: 44px;
+                margin-left: 8px;
+                transition: all ease 500ms;
+                &:hover{
+                    transform: scale(1.3);
+
+                }
+            }
+            .goIn{
+                width: 63px;
+                height: 44px;
+                transition: all ease 500ms;
+                border-radius: 10px;
+                &:hover{
+                    background: #B4FD64;
+                    color: black;
+                    transform: scale(1.05);
+                    
+                }
+                
+            }
+        }
+    }
+}
+
+
+
+
+

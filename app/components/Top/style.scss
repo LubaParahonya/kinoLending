@@ -1,0 +1,41 @@
+.mainBoxTop{
+    padding-left: 64px;
+    padding-right: 64px;
+    margin-top: 80px;
+    height: 504px;
+    .textTop{
+        background-image: linear-gradient(83.19deg, #F2F452 0.32%, #B4FD64 69.58%);
+        color: transparent;
+        background-clip: text;
+        -webkit-background-clip: text;
+        font-size: 28px;
+        font-weight: 1000;
+        margin-bottom: 20px;
+    }
+        .boxTop{
+            display: flex;
+            width: 300px;
+            gap: 20px;
+            position: relative;
+            height: 450px;
+            gap: 110px;
+            transition: all ease 500ms;
+            &:hover{
+                transform: scale(1.1);
+            }
+            .imgTop{
+                width: 250px;
+                height: 380px;
+                position: absolute;
+                left: 93px;
+                top: 0px;
+                border-radius: 15px;
+            }
+            .number{
+                font-size: 190px;
+                font-weight: 800;
+                -webkit-text-stroke: 5px #F2F452;
+                color: transparent;
+            }
+        }
+}

@@ -1,0 +1,109 @@
+.mainBoxFooter{
+    width: 100%;
+    margin-top: 150px;
+    display: flex;
+    flex-direction: column;
+    padding-left: 64px;
+    padding-right: 64px;
+    .topBox{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        .buttonHelp{
+            width: 203px;
+            height: 44px;
+            background: #FFFFFF1A;
+            color: aliceblue;
+            border-radius: 12px;
+            transition: all ease 500ms;
+            &:hover{
+                transform: scale(1.1);
+                cursor: pointer;
+            }
+
+        }
+        .boxImgContact{
+            display: flex;
+            gap: 24px;
+            .contact{
+                display: flex;
+                gap: 5px;
+                color: #FFFFFF4D;
+                transition: all ease 500ms;
+            &:hover{
+                transform: scale(1.1);
+                cursor: pointer;
+            }
+                .imglogo{
+                    width: 24px;
+                    height: 24px;
+                }
+            }
+        }
+    }
+    .mainListContacts{
+        margin-top: 44px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        border-bottom: solid white 2px;
+        margin-bottom: 64px;
+        padding-bottom: 20px;
+        .listContacts{
+            display: flex;
+            gap: 20px;
+            .textContacts{
+                padding-top: 6px;
+                padding-bottom: 6px;
+                font-size: 16px;
+                font-weight: 500;
+                transition: all ease 500ms;
+            &:hover{
+                transform: scale(1.1);
+                cursor: pointer;
+                color: #B4FD64;
+            }
+                &:last-child{
+                    padding-left: 74px;
+                }
+            }
+        }
+        .listTextContacts{
+            display: flex;
+            gap: 20px;
+            .textContacts{
+                transition: all ease 500ms;
+            &:hover{
+                transform: scale(1.1);
+                cursor: pointer;
+                color: #B4FD64;
+            }
+            }
+        }
+    }
+    .bottomBox{
+        display: flex;
+        align-items: center;
+        margin-bottom: 64px;
+        .old{
+            width: 40px;
+            height: 35px;
+            color: #FFFFFF4D;
+            border-radius: 10px;
+            border: solid  #FFFFFF4D 2px;
+            font-size: 16px;
+            font-weight: 400;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-right: 20px;
+        }
+        .boxYear{
+            color: #FFFFFF4D; 
+            margin-right: 301px;
+        }
+        .iconImg{
+
+        }
+    }
+}
